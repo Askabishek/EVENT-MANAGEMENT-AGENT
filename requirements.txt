@@ -1,0 +1,9 @@
+google-adk==1.0.0
+litellm
+gradio==6.15.2
+pymongo
+pytz
+Deprecated
+typing-extensions>=4.0.0
+pydantic>=2.0.0
+httpx
